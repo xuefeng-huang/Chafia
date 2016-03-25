@@ -26,7 +26,8 @@
             android:orientation="vertical">
             <TextView
                 style="@style/titleStyle"
-                android:text="KOPI KOSONG"/>
+                android:text="KOPI KOSONG >"
+                android:onClick="kopiKosongClick"/>
 
             <TextView
                 android:layout_width="match_parent"

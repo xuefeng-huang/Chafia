@@ -3,4 +3,5 @@
     <string name="kopiKosong">"50%%水加50%%咖啡"</string>
     <string name="kopiO">50%%水加50%%咖啡 + 糖</string>
     <string name="kopiOSiewDai">Kopi O 加少量的糖</string>
+    <string name="back">&lt; 返回</string>
 </resources>
