@@ -4,4 +4,7 @@
     <string name="kopiO">50% water and 50% coffee + sugar</string>
     <string name="kopiOSiewDai">Kopi O with less sugar</string>
     <string name="back">&lt; Back</string>
+    <string name="kopi">Kopi O with condensed milk</string>
+    <string name="kopiGahDai">Kopi with more condensed milk</string>
+    <string name="learnMore">Learn more</string>
 </resources>

@@ -2,6 +2,9 @@
     <string name="app_name">Chafia</string>
     <string name="kopiKosong">"50%%水加50%%咖啡"</string>
     <string name="kopiO">50%%水加50%%咖啡 + 糖</string>
-    <string name="kopiOSiewDai">Kopi O 加少量的糖</string>
+    <string name="kopiOSiewDai">Kopi O加少量的糖</string>
     <string name="back">&lt; 返回</string>
+    <string name="kopi">Kopi O加炼乳</string>
+    <string name="kopiGahDai">Kopi加多量炼乳</string>
+    <string name="learnMore">了解更多</string>
 </resources>

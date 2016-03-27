@@ -8,7 +8,8 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
+        <activity
+            android:name=".MainActivity"
             android:label="Chafia - Kopi Guide">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,11 +17,20 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
-        <activity android:name=".KopiKosong"
-            android:label="Kopi Kosong">
-
-        </activity>
+        <activity
+            android:name=".KopiKosong"
+            android:label="Kopi Kosong" />
+        <activity
+            android:name=".Kopi_O"
+            android:label="Kopi O" />
+        <activity
+            android:name=".kopiOSiewDai"
+            android:label="Kopi O Siew Dai" />
+        <activity
+            android:name=".Kopi"
+            android:label="Kopi" />
+        <activity android:name=".KopiGahDai"
+            android:label="Kopi Gah Dai"></activity>
     </application>
 
 </manifest>

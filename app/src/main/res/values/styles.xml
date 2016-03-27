@@ -29,6 +29,7 @@
     <!--description style-->
     <style name="descriptionStyle">
         <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
         <item name="android:fontFamily">sans-serif-light</item>
         <item name="android:textColor">#FFD180</item>
     </style>
